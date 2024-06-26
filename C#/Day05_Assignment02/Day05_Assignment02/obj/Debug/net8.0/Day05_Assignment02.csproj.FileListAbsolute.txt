@@ -1,0 +1,14 @@
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\bin\Debug\net8.0\Day05_Assignment02.exe
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\bin\Debug\net8.0\Day05_Assignment02.deps.json
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\bin\Debug\net8.0\Day05_Assignment02.runtimeconfig.json
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\bin\Debug\net8.0\Day05_Assignment02.dll
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\bin\Debug\net8.0\Day05_Assignment02.pdb
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.AssemblyInfoInputs.cache
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.AssemblyInfo.cs
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.csproj.CoreCompileInputs.cache
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.dll
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\refint\Day05_Assignment02.dll
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.pdb
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\Day05_Assignment02.genruntimeconfig.cache
+C:\zxx\2024OPT\icc\C#\C#\Day05_Assignment02\Day05_Assignment02\obj\Debug\net8.0\ref\Day05_Assignment02.dll
