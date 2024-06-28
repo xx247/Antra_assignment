@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\bin\Debug\net8.0\Day07_assignment.exe
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\bin\Debug\net8.0\Day07_assignment.deps.json
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\bin\Debug\net8.0\Day07_assignment.runtimeconfig.json
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\bin\Debug\net8.0\Day07_assignment.dll
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\bin\Debug\net8.0\Day07_assignment.pdb
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.AssemblyInfo.cs
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.dll
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\refint\Day07_assignment.dll
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.pdb
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\Day07_assignment.genruntimeconfig.cache
+C:\Users\User\source\repos\Day07_assignment\Day07_assignment\obj\Debug\net8.0\ref\Day07_assignment.dll
